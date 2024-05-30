@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect } from 'react'
  
-export function HeroSection() {
+ function HeroSection() {
  
    
 
